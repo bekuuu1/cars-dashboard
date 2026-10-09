@@ -1,0 +1,61 @@
+Make,Model,Year,Price,Mileage,Fuel_Type,Transmission,Engine_Size_L,Horsepower,MPG,Body_Type,Condition,Location
+Toyota,Camry,2021,$24500,28000 mi,Gasoline,Automatic,2.5 L,203 hp,32,Sedan,Used,California
+Toyota,Corolla,2022,$21000,18500 mi,Gasoline,CVT,2.0 L,169 hp,35,Sedan,Used,Texas
+Toyota,RAV4,2023,$31500,12000 mi,Hybrid,Automatic,2.5 L,219 hp,40,SUV,Used,New York
+Toyota,Highlander,2020,$33000,42000 mi,Gasoline,Automatic,3.5 L,295 hp,23,SUV,Used,Illinois
+Toyota,Tacoma,2019,$28500,55000 mi,Gasoline,Automatic,3.5 L,278 hp,20,Truck,Used,Colorado
+Honda,Civic,2021,$22500,25000 mi,Gasoline,CVT,1.5 L,180 hp,36,Sedan,Used,Florida
+Honda,Accord,2022,$27000,16000 mi,Gasoline,CVT,1.5 L,192 hp,33,Sedan,Used,Ohio
+Honda,CR-V,2023,$32000,9500 mi,Hybrid,eCVT,2.0 L,204 hp,38,SUV,Used,Washington
+Honda,Pilot,2018,$24000,68000 mi,Gasoline,Automatic,3.5 L,280 hp,22,SUV,Used,Georgia
+Honda,Fit,2017,$14500,75000 mi,Gasoline,Manual,1.5 L,130 hp,34,Hatchback,Used,Michigan
+Ford,Mustang,2020,$31000,31000 mi,Gasoline,Manual,5.0 L,460 hp,18,Coupe,Used,Texas
+Ford,F-150,2021,$42000,35000 mi,Gasoline,Automatic,3.5 L,400 hp,21,Truck,Used,Texas
+Ford,Explorer,2022,$36500,22000 mi,Gasoline,Automatic,2.3 L,300 hp,24,SUV,Used,North Carolina
+Ford,Escape,2019,$18500,52000 mi,Gasoline,Automatic,1.5 L,181 hp,28,SUV,Used,Pennsylvania
+Ford,Bronco,2023,$48000,8000 mi,Gasoline,Automatic,2.7 L,330 hp,20,SUV,Used,Arizona
+BMW,330i,2021,$34000,29000 mi,Gasoline,Automatic,2.0 L,255 hp,30,Sedan,Used,California
+BMW,540i,2020,$39500,38000 mi,Gasoline,Automatic,3.0 L,335 hp,27,Sedan,Used,New Jersey
+BMW,X5,2022,$55000,21000 mi,Gasoline,Automatic,3.0 L,335 hp,23,SUV,Used,Florida
+BMW,M3,2023,$76000,7000 mi,Gasoline,Automatic,3.0 L,473 hp,19,Sedan,Used,California
+BMW,i4,2023,$52000,11000 mi,Electric,Automatic,0.0 L,335 hp,109,Sedan,Used,Massachusetts
+Mercedes-Benz,C300,2021,$36000,27000 mi,Gasoline,Automatic,2.0 L,255 hp,29,Sedan,Used,Florida
+Mercedes-Benz,E350,2020,$41000,36000 mi,Gasoline,Automatic,2.0 L,255 hp,26,Sedan,Used,New York
+Mercedes-Benz,GLE350,2022,$57000,19000 mi,Gasoline,Automatic,2.0 L,255 hp,22,SUV,Used,Texas
+Mercedes-Benz,GLC300,2019,$29000,48000 mi,Gasoline,Automatic,2.0 L,241 hp,24,SUV,Used,Virginia
+Tesla,Model 3,2022,$35000,22000 mi,Electric,Automatic,0.0 L,283 hp,132,Sedan,Used,California
+Tesla,Model Y,2023,$43000,14000 mi,Electric,Automatic,0.0 L,384 hp,122,SUV,Used,California
+Tesla,Model S,2021,$62000,30000 mi,Electric,Automatic,0.0 L,670 hp,120,Sedan,Used,Nevada
+Chevrolet,Corvette,2022,$68000,12000 mi,Gasoline,Automatic,6.2 L,495 hp,19,Coupe,Used,Florida
+Chevrolet,Silverado 1500,2021,$39000,34000 mi,Gasoline,Automatic,5.3 L,355 hp,18,Truck,Used,Texas
+Chevrolet,Tahoe,2020,$45000,45000 mi,Gasoline,Automatic,5.3 L,355 hp,17,SUV,Used,Georgia
+Chevrolet,Malibu,2018,$15500,62000 mi,Gasoline,Automatic,1.5 L,160 hp,32,Sedan,Used,Illinois
+Audi,A4,2021,$32000,26000 mi,Gasoline,Automatic,2.0 L,201 hp,30,Sedan,Used,New York
+Audi,A6,2020,$38000,37000 mi,Gasoline,Automatic,3.0 L,335 hp,26,Sedan,Used,Illinois
+Audi,Q5,2022,$41000,20000 mi,Gasoline,Automatic,2.0 L,261 hp,25,SUV,Used,Colorado
+Audi,e-tron,2022,$49000,18000 mi,Electric,Automatic,0.0 L,402 hp,78,SUV,Used,California
+Hyundai,Elantra,2022,$20500,19000 mi,Gasoline,CVT,2.0 L,147 hp,37,Sedan,Used,Texas
+Hyundai,Sonata,2021,$22000,28000 mi,Gasoline,Automatic,2.5 L,191 hp,32,Sedan,Used,Florida
+Hyundai,Tucson,2023,$29000,11000 mi,Hybrid,Automatic,1.6 L,226 hp,38,SUV,Used,Oregon
+Hyundai,Palisade,2022,$38000,23000 mi,Gasoline,Automatic,3.8 L,291 hp,22,SUV,Used,Minnesota
+Kia,K5,2022,$23500,21000 mi,Gasoline,Automatic,1.6 L,180 hp,32,Sedan,Used,North Carolina
+Kia,Telluride,2023,$42000,13000 mi,Gasoline,Automatic,3.8 L,291 hp,21,SUV,Used,Tennessee
+Kia,Sportage,2023,$28000,10000 mi,Hybrid,Automatic,1.6 L,227 hp,43,SUV,Used,Washington
+Subaru,Outback,2021,$27500,32000 mi,Gasoline,CVT,2.5 L,182 hp,29,Wagon,Used,Oregon
+Subaru,Forester,2022,$28500,21000 mi,Gasoline,CVT,2.5 L,182 hp,29,SUV,Used,Colorado
+Subaru,WRX,2020,$26000,39000 mi,Gasoline,Manual,2.0 L,268 hp,23,Sedan,Used,Vermont
+Mazda,Mazda3,2021,$21500,24000 mi,Gasoline,Automatic,2.5 L,186 hp,31,Hatchback,Used,California
+Mazda,CX-5,2022,$28000,19000 mi,Gasoline,Automatic,2.5 L,187 hp,26,SUV,Used,Florida
+Mazda,CX-90,2024,$44000,5000 mi,Hybrid,Automatic,3.3 L,340 hp,25,SUV,Used,Texas
+Nissan,Altima,2020,$19000,41000 mi,Gasoline,CVT,2.5 L,188 hp,32,Sedan,Used,Georgia
+Nissan,Rogue,2022,$26500,22000 mi,Gasoline,CVT,1.5 L,201 hp,33,SUV,Used,Ohio
+Nissan,Z,2023,$45000,6000 mi,Gasoline,Manual,3.0 L,400 hp,20,Coupe,Used,Nevada
+Volkswagen,GTI,2021,$27000,23000 mi,Gasoline,Manual,2.0 L,228 hp,28,Hatchback,Used,Pennsylvania
+Volkswagen,Tiguan,2022,$26000,25000 mi,Gasoline,Automatic,2.0 L,184 hp,26,SUV,Used,Illinois
+Volkswagen,ID.4,2023,$37000,12000 mi,Electric,Automatic,0.0 L,201 hp,107,SUV,Used,California
+Lexus,ES 350,2021,$35500,27000 mi,Gasoline,Automatic,3.5 L,302 hp,26,Sedan,Used,Texas
+Lexus,RX 350,2022,$46000,19000 mi,Gasoline,Automatic,3.5 L,295 hp,23,SUV,Used,Florida
+Lexus,IS 350,2020,$33000,35000 mi,Gasoline,Automatic,3.5 L,311 hp,23,Sedan,Used,Arizona
+Porsche,911 Carrera,2021,$115000,15000 mi,Gasoline,Automatic,3.0 L,379 hp,20,Coupe,Used,California
+Porsche,Macan,2022,$58000,18000 mi,Gasoline,Automatic,2.0 L,261 hp,21,SUV,Used,Florida
+Porsche,Taycan,2022,$85000,16000 mi,Electric,Automatic,0.0 L,402 hp,79,Sedan,Used,New York
