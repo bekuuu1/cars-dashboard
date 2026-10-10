@@ -2,6 +2,18 @@
 
 > **Explore cars. Compare smarter.**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cars-dashboard-bekuuu1.streamlit.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-bekuuu1%2Fcars--dashboard-181717?logo=github)](https://github.com/bekuuu1/cars-dashboard)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
+---
+
+### 🌐 Live Demo
+- 🚀 **Live Interactive Demo:** [Launch CarScope on Streamlit Community Cloud](https://cars-dashboard-bekuuu1.streamlit.app)
+- 📂 **GitHub Repository:** [https://github.com/bekuuu1/cars-dashboard](https://github.com/bekuuu1/cars-dashboard)
+
+---
+
 CarScope is a senior-level Python data analytics application and interactive dashboard built using **Pandas**, **Seaborn**, **Matplotlib**, and **Streamlit**. It allows data analysts, researchers, and students to import vehicle CSV datasets, dynamically clean and map column schemas, perform statistical visual analytics, execute multi-car side-by-side comparative analyses, and inspect underlying Pandas operations via interactive learning snippets.
 
 ---
@@ -84,6 +96,19 @@ streamlit run app.py
 ```
 CarScope will open automatically in your browser at `http://localhost:8501`.
 
+### 4. Deploy Live to Streamlit Community Cloud
+You can host and share your live CarScope dashboard online for free in under two minutes:
+1. Ensure your repository is pushed to GitHub at [bekuuu1/cars-dashboard](https://github.com/bekuuu1/cars-dashboard).
+2. Go to [share.streamlit.io](https://share.streamlit.io) and log in with your GitHub account.
+3. Click **"New app"** (or **"Create app"**).
+4. Fill in the deployment details:
+   - **Repository:** `bekuuu1/cars-dashboard`
+   - **Branch:** `main`
+   - **Main file path:** `app.py`
+   - **App URL:** `cars-dashboard-bekuuu1` (or custom name of your choice)
+5. Click **"Deploy!"**
+Your dashboard will build and be live at `https://cars-dashboard-bekuuu1.streamlit.app`.
+
 ---
 
 ## 🧪 Running Automated Tests
@@ -91,7 +116,7 @@ CarScope will open automatically in your browser at `http://localhost:8501`.
 Run the full pytest suite to verify dataset loading, string parsing, duplicate detection, KPI calculations, and vehicle min-max scaling:
 
 ```bash
-pytest tests/ -v
+python -m pytest tests/ -v
 ```
 
 ---
