@@ -1,16 +1,10 @@
-# CarScope 🚘 — Interactive Vehicle Data Analytics & Comparative Dashboard
+# CarScope — Vehicle Intelligence & Analytics Platform
 
-> **Explore cars. Compare smarter.**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-CarScope_Web_App-1DB954?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bekuuu1.github.io/cars-dashboard/)
+[![Dataset](https://img.shields.io/badge/Dataset-Vehicle_Market_Data-00F2FE?style=for-the-badge&logo=kaggle&logoColor=black)](https://github.com/bekuuu1/cars-dashboard)
+[![License](https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge)](LICENSE)
 
-[![GitHub Pages Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-22C55E?style=for-the-badge&logo=githubpages&logoColor=white)](https://bekuuu1.github.io/cars-dashboard/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-bekuuu1%2Fcars--dashboard-181717?style=for-the-badge&logo=github)](https://github.com/bekuuu1/cars-dashboard)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
----
-
-### 🌐 Live Demo
-- 🚀 **Interactive Demo (GitHub Pages):** **[https://bekuuu1.github.io/cars-dashboard/](https://bekuuu1.github.io/cars-dashboard/)**
-- 📂 **GitHub Repository:** [https://github.com/bekuuu1/cars-dashboard](https://github.com/bekuuu1/cars-dashboard)
+> 🚀 **Live Demo Available**: Experience the application instantly at **[https://bekuuu1.github.io/cars-dashboard/](https://bekuuu1.github.io/cars-dashboard/)**
 
 ---
 
@@ -96,16 +90,9 @@ streamlit run app.py
 ```
 CarScope will open automatically in your browser at `http://localhost:8501`.
 
-### 4. Live Demo via GitHub Pages (WebAssembly)
-CarScope runs entirely inside modern web browsers without a dedicated backend server using **Stlite / Pyodide WebAssembly**:
-- 🔗 **Live Demo URL:** **[https://bekuuu1.github.io/cars-dashboard/](https://bekuuu1.github.io/cars-dashboard/)**
-
-**To enable GitHub Pages in your repository settings:**
-1. Open your repository on GitHub: **[bekuuu1/cars-dashboard](https://github.com/bekuuu1/cars-dashboard)**.
-2. Click **Settings** > **Pages** (under Code and automation in the left sidebar).
-3. Under **Build and deployment** → **Source**, select **Deploy from a branch**.
-4. Set branch to **`main`** and folder to **`/ (root)`** (or `/docs`), then click **Save**.
-5. Within 1–2 minutes, your dashboard will be live at `https://bekuuu1.github.io/cars-dashboard/`.
+### 4. Live Demo via GitHub Pages
+Experience CarScope live in your browser without local installation:
+- 🚀 **[https://bekuuu1.github.io/cars-dashboard/](https://bekuuu1.github.io/cars-dashboard/)**
 
 ---
 
